@@ -1,0 +1,36 @@
+{
+  "validUser": {
+    "email": "open_kcnjuoj_user@tfbnw.net",
+    "password": "ko0n@@@"
+  },
+  "notExistedUser": {
+    "email": "n@s",
+    "password": "ko0n@@@"
+  },
+  "invalidUser": {
+    "email": "open_kcnjuoj_user@tfbnw.net",
+    "password": "333"
+  },
+  "ValidRegisterUser": {
+    "firstName": "Bob",
+    "surname": "Algchbcdbjhdc",
+    "email": "viwapmlgdy_1634856008@tfbnw.net",
+    "password": "Ko0n123@@@",
+    "day": 5,
+    "month": "Nov",
+    "year": "1992",
+    "gender": "Custom",
+    "pronounce": "He: \"Wish him a happy birthday!\"",
+    "optionalGender": "Male"
+  },
+  "invalidRegisterUser": {
+    "firstName": "y",
+    "surname": "x",
+    "email": "viwapmlgdy_1634856008@tfbnw.net",
+    "password": "Ko0",
+    "day": 5,
+    "month": "Nov",
+    "year": "1992",
+    "gender": "Male"
+  }
+}

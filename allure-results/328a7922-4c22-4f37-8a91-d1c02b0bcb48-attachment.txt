@@ -1,0 +1,26 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 2] test cases in the current suite
+Test Method:		[RegisterSuite.TC01_CheckSignUpWithValidData.CheckFillingSignUpFormWithValidData]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.facebook.com] @22-10-2021 04:48:33.0408 AM
+[ReportManager] Initial URL: [data:,] @22-10-2021 04:48:33.0440 AM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211022-044830", Target File: "\1634870915741_CheckFillingSignUpFormWithValidData.gif"]. @22-10-2021 04:48:35.0967 AM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.facebook.com]. @22-10-2021 04:48:36.0232 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Create New Account]. @22-10-2021 04:48:37.0084 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Bob]. @22-10-2021 04:48:39.0549 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Algchbcdbjhdc]. @22-10-2021 04:48:40.0090 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [viwapmlgdy_1634856008@tfbnw.net]. @22-10-2021 04:48:40.0688 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [viwapmlgdy_1634856008@tfbnw.net]. @22-10-2021 04:48:41.0243 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Ko0n123@@@]. @22-10-2021 04:48:41.0773 AM
+[ReportManager] Element Action [Select] successfully performed. With the following test data [5]. @22-10-2021 04:48:42.0460 AM
+[ReportManager] Element Action [Select] successfully performed. With the following test data [Nov]. @22-10-2021 04:48:43.0375 AM
+[ReportManager] Element Action [Select] successfully performed. With the following test data [1992]. @22-10-2021 04:48:45.0008 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Custom]. @22-10-2021 04:48:45.0965 AM
+[ReportManager] Element Action [Select] successfully performed. With the following test data [He: "Wish him a happy birthday!"]. @22-10-2021 04:48:46.0521 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Male]. @22-10-2021 04:48:47.0075 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Sign Up]. @22-10-2021 04:48:47.0967 AM
+[ReportManager] Loaded Shared OpenCV @22-10-2021 04:48:49.0203 AM
+[ReportManager] Assertion [ValidateElementExists] PASSED. Expected [Element Should Exist, locator 'By.name: websubmit'] and Actual [Element Exists]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @22-10-2021 04:48:49.0666 AM
+[ReportManager] Successfully created attachment [Screenshot - 1634870928184_CheckFillingSignUpFormWithValidData_ValidateElementExists_passed] @22-10-2021 04:48:49.0681 AM
+[ReportManager] Successfully created attachment [Animated Gif - CheckFillingSignUpFormWithValidData] @22-10-2021 04:48:49.0697 AM

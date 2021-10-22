@@ -1,0 +1,10 @@
+[2021-10-22T04:48:51+0200] [FINE] https://www.facebook.com/ - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-10-22T04:48:53+0200] [INFO] console-api - "\n%cStop!" "font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;"
+[2021-10-22T04:48:53+0200] [INFO] console-api - "\n%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or \"hack\" someone's account, it is a scam and will give them access to your Facebook account." "font-family:helvetica; font-size:20px; "
+[2021-10-22T04:48:53+0200] [INFO] console-api - "\n%cSee https://www.facebook.com/selfxss for more information." "font-family:helvetica; font-size:20px; "
+[2021-10-22T04:48:53+0200] [INFO] console-api - "\n%c" ""
+[2021-10-22T04:48:55+0200] [SEVERE] https://www.facebook.com/common/referer_frame.php 0 [Report Only] Refused to frame 'https://fbsbx.com/' because it violates the following Content Security Policy directive: "frame-src *.doubleclick.net *.google.com *.facebook.com www.googleadservices.com *.fbsbx.com ad.atdmt.com data: www.instagram.com *.vrich619.com".
+
+[2021-10-22T04:48:55+0200] [FINE] https://www.facebook.com/ - [DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o
+[2021-10-22T04:48:55+0200] [SEVERE] https://www.facebook.com/common/referer_frame.php 0 [Report Only] Refused to frame 'https://fbsbx.com/' because it violates the following Content Security Policy directive: "frame-src *.doubleclick.net *.google.com *.facebook.com www.googleadservices.com *.fbsbx.com ad.atdmt.com data: www.instagram.com *.vrich619.com".
+
